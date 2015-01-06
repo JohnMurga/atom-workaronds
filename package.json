@@ -1,5 +1,5 @@
 {
-  "name": "John's Atom Workarounds",
+  "name": "johns-work-arounds",
   "main": "./lib/johns-work-arounds",
   "version": "0.2.0",
   "description": "A collection of very personal workarounds and tweaks",
