@@ -3,7 +3,7 @@
   "main": "./lib/johns-work-arounds",
   "version": "0.0.1",
   "description": "A collection of very personal workarounds and tweaks",
-  "repository": "https://github.com/atom/johns-work-arounds",
+  "repository": "https://github.com/JohnMurga/atom-workaronds",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
