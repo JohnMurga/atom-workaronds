@@ -1,0 +1,17 @@
+@root-path: 'atom://johns-work-arounds/resources';
+
+.font (@name,  @file)
+{
+    @font-path: '@{root-path}/@{file}';
+
+    @font-face {
+        font-family: @name;
+        font-weight: normal;
+        font-style: normal;
+        src: url(@font-path);
+    }
+
+}
+
+.font ( 'dejavu', 'DejaVuSans/DejaVuSansMono.ttf' );
+.font ( 'liberation', 'LiberationMono/LiberationMono-Regular.ttf');
