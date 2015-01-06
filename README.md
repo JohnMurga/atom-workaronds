@@ -1,8 +1,8 @@
 # John's Atom Workarounds
 
-This plugin fixes issues that I know about in Atom.
+This plugin fixes issues that I know about in the Atom editor.
 
-I enjoy using it, but could not live with the issues.
+I enjoy using it, but could not live with the issues when working on my code.
 
 Currently the main issues fixed by this plugin are :
 
