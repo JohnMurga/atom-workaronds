@@ -1,7 +1,7 @@
 {
   "name": "johns-work-arounds",
   "main": "./lib/johns-work-arounds",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A collection of very personal workarounds and tweaks",
   "repository": "https://github.com/JohnMurga/atom-workaronds",
   "license": "MIT",
