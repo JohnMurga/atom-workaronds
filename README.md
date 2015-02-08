@@ -2,16 +2,23 @@
 
 This plugin fixes issues that I know about in the Atom editor.
 
-I enjoy using it, but could not live with the issues when working on my code.
+I enjoy using it, but could not live with the issues when working on my code ...
+Since I created this plugin most of the issues I had have been solved.
 
-Currently the main issues fixed by this plugin are :
+So currently the main issues fixed by this plugin are :
 
-* The JavaScript language package was unreliable for me.
-* Bundled fonts has issues with their alignment
++ Bundled fonts have issues with their alignment
 
 In addition this plugin bundles the following fonts :
 
-+ DejaVuSans Mono
-+ Liberation Mono
++ anonymous -> AnonymousPro-Regular
++ dejavu -> DejaVuSansMono
++ inconsolata -> Inconsolata-Regular
++ liberation -> LiberationMono-Regular
++ monofur -> Monofur
++ pt -> PT_Mono
++ srcpro -> SourceCodePro-Regular
++ srcpro light -> SourceCodePro-Light
++ ubuntu -> UbuntuMono-Regular
 
 Hopefully these workarounds help someone else.

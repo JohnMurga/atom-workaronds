@@ -11,3 +11,5 @@
   'srcpro light', 'srcpro', 'ubuntu'
 ## 0.5.0 - Tidyup and adjustments
 * Tidied up the JavaScript to be JS Lint compliant
+## 0.6.0 - Minor fix and readme update
+* The super-hacky font alignment tweak was unreliable at 25ms, now 100ms
