@@ -1,16 +1,18 @@
 # John's Atom Workarounds
 
-This plugin fixes issues that I know about in the Atom editor.
+This plugin fixed issues that I knew about in the Atom editor.
 
-I love Atom, but could not live with the issues when working on my code ...
-So I created this plugin most of the issues I had have been solved.
+I love Atom, but could not live with the issues while working on my code.
 
-So currently, other than the added fonts ...
-The main issues fixed by this plugin are :
+So I created this plugin to solve most of the issues I had in one place.
 
-+ Bundled fonts have issues with their alignment
+But over time most got fixed, so now it just does the following :
 
-In addition this plugin bundles my favorite free fonts :
++ Bundle my favorite fonts for whatever environment I use Atom in.
++ Fix issues with bundled font alignment.
++ Backup my Atom config.
+
+Bundled fonts are as follows :
 
 | In settings | Will map to |
 | --- | --- |
@@ -24,4 +26,4 @@ In addition this plugin bundles my favorite free fonts :
 |srcpro light|SourceCodePro-Light|
 |ubuntu|UbuntuMono-Regular|
 
-Hopefully someone finds this useful :-)
+Maybe someone else finds this useful :-)
