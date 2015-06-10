@@ -17,6 +17,7 @@ Bundled fonts are as follows :
 | In settings | Will map to |
 | --- | --- |
 |anonymous|AnonymousPro-Regular|
+|camingo|CamingoCode|
 |dejavu|DejaVuSansMono|
 |inconsolata|Inconsolata-Regular|
 |liberation|LiberationMono-Regular|

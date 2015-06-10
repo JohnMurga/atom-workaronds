@@ -23,3 +23,8 @@
 * Fixed to work on Atom 1.0
 * General tidy up (Markdown, JS)
 * Changed font width hack to deal reliably with more scenarios
+
+### 0.8-11.0 - More enhancements and tidyups
+* Tweaked font hack
+* Fixed/updated the crappy readme
+* Added Camingo Code (my new fave), as a font
