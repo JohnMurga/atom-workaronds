@@ -18,7 +18,9 @@ Bundled fonts are as follows :
 | --- | --- |
 |anonymous|AnonymousPro-Regular|
 |camingo|CamingoCode|
+|courier prime|Courier Prime Source|
 |dejavu|DejaVuSansMono|
+|fira|FiraMono-Regular|
 |inconsolata|Inconsolata-Regular|
 |liberation|LiberationMono-Regular|
 |monofur|Monofur|
