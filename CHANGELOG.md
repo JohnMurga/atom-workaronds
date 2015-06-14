@@ -31,3 +31,7 @@
 
 ### 0.11-0.13 - More tidy ups
 * Minor tidy ups and tweaks
+
+### 0.14 - Limiting myself to 10 favorite fonts
+* A minor code tweak
+* Added Code New Roman and removed Monofur and Anonymous Pro

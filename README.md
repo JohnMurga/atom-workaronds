@@ -16,17 +16,15 @@ Bundled fonts are as follows :
 
 | In settings | Will map to |
 | --- | --- |
-|anonymous|AnonymousPro-Regular|
 |camingo|CamingoCode|
+|code new roman|Code New Roman|
 |courier prime|Courier Prime Source|
 |dejavu|DejaVuSansMono|
 |fira|FiraMono-Regular|
 |inconsolata|Inconsolata-Regular|
 |liberation|LiberationMono-Regular|
-|monofur|Monofur|
 |pt|PT_Mono|
 |srcpro|SourceCodePro-Regular|
-|srcpro light|SourceCodePro-Light|
 |ubuntu|UbuntuMono-Regular|
 
 Maybe someone else finds this useful :-)
