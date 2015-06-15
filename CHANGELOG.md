@@ -38,3 +38,6 @@
 
 ### 0.15 - Updated the description and required version
 * Updated the package metadata to something more realistic
+
+### 0.16 - Fix for Windows package lookup lockups
+* Will be removed when fix makes it into Atom mainline
