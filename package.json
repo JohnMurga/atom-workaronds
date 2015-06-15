@@ -2,11 +2,11 @@
   "name": "johns-work-arounds",
   "main": "./lib/johns-work-arounds",
   "version": "0.14.0",
-  "description": "A collection of very personal workarounds and tweaks",
+  "description": "Provides bundled coding fonts and works around issues in Atom",
   "repository": "https://github.com/JohnMurga/atom-workaronds",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.180.0"
   },
   "dependencies": {}
 }

@@ -35,3 +35,6 @@
 ### 0.14 - Limiting myself to 10 favorite fonts
 * A minor code tweak
 * Added Code New Roman and removed Monofur and Anonymous Pro
+
+### 0.15 - Updated the description and required version
+* Updated the package metadata to something more realistic
