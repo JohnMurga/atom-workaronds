@@ -9,6 +9,7 @@ So I created this plugin to solve most of the issues I had in one place.
 But over time most got fixed, so now it just does the following :
 
 + Bundle my favorite fonts for whatever environment I use Atom in.
++ Fix a lockup when doing package handling on Windows.
 + Fix issues with bundled font alignment.
 + Backup my Atom config.
 

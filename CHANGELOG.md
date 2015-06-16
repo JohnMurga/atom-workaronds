@@ -41,3 +41,6 @@
 
 ### 0.16 - Fix for Windows package lookup lockups
 * Will be removed when fix makes it into Atom mainline
+
+### 0.17 - Further fix for Windows package lookup lockups
+* Added a couple of extra flags
