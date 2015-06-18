@@ -44,3 +44,6 @@
 
 ### 0.17 - Further fix for Windows package lookup lockups
 * Added a couple of extra flags
+
+### 0.18 - Backed out TLS fixes as they do not appear to help that much
+* Removed some code
