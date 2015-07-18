@@ -1,3 +1,7 @@
+### 0.20 - Font replacement and tweaks
+* Hack replaces dejavu as it is fundamentally the same but better
+* Tweaked the readme
+
 ### 0.19 - Font changes
 * Removed Code New Romman due to alignment issues (I hope fixed in next version)
 * Removed Fira as I don;t really use it at all :-)
