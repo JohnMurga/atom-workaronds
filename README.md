@@ -18,13 +18,13 @@ Bundled fonts are as follows :
 | In settings | Will map to |
 | --- | --- |
 |camingo|CamingoCode|
-|code new roman|Code New Roman|
 |courier prime|Courier Prime Source|
+|cutive|Cutive Mono|
 |dejavu|DejaVuSansMono|
-|fira|FiraMono-Regular|
 |inconsolata|Inconsolata-Regular|
 |liberation|LiberationMono-Regular|
 |pt|PT_Mono|
+|roboto|Roboto Mono|
 |srcpro|SourceCodePro-Regular|
 |ubuntu|UbuntuMono-Regular|
 

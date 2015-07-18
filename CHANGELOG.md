@@ -1,3 +1,8 @@
+### 0.19 - Font changes
+* Removed Code New Romman due to alignment issues (I hope fixed in next version)
+* Removed Fira as I don;t really use it at all :-)
+* Added Cutive and Roboto as they look nice
+
 ### 0.18 - Backed out TLS fixes as they do not appear to help that much
 * Removed some code
 
