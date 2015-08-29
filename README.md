@@ -1,18 +1,18 @@
 # John's Atom Workarounds
 
-This plugin fixed issues that I knew about in the Atom editor.
+I love Atom, but could not live with the issues while working on my code.  
+So I created this plugin to solve most of the issues I have in one place.
 
-I love Atom, but could not live with the issues while working on my code.
+Most things get fixed, so now it just does the following :
 
-So I created this plugin to solve most of the issues I had in one place.
-
-But over time most got fixed, so now it just does the following :
-
++ Includes proxy server for APM that I can toggle on as off on port 33133.  
+  This is to work around https://github.com/atom/atom/issues/7191.  
+  To use press CTRL-SHIFT-P and type "proxy" (start/stop).
 + Bundle my favorite fonts for whatever environment I use Atom in.
 + Fix issues with bundled font alignment.
 + Backup my Atom config.
 
-Bundled fonts are as follows :
+My bundled fonts are as follows :
 
 | In settings | Will map to |
 | --- | --- |
@@ -24,7 +24,11 @@ Bundled fonts are as follows :
 |liberation|LiberationMono-Regular|
 |pt|PT_Mono|
 |roboto|Roboto Mono|
+|roboto light|Roboto Mono Light|
+|roboto thin|Roboto Mono Thin|
 |srcpro|SourceCodePro-Regular|
 |ubuntu|UbuntuMono-Regular|
 
 Maybe someone else finds this useful :-)
+
+Thanks for reading
