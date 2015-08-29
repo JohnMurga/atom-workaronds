@@ -1,3 +1,5 @@
+### 0.24 - A couple of tweaks
+* Made the code a bit more robust
 ### 0.23 - Broke it !!
 * Fix to broken plugin
 ### 0.22 - Built in proxy, more Roboto and fixes
