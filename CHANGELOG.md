@@ -1,3 +1,5 @@
+### 0.23 - Broke it !!
+* Fix to broken plugin
 ### 0.22 - Built in proxy, more Roboto and fixes
 * Added a proxy server to work around https://github.com/atom/atom/issues/7191  
   Basically drop a `.apmrc` in your ATOM_HOME with `proxy = http://localhost:33133`
