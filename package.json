@@ -1,7 +1,7 @@
 {
   "name": "johns-work-arounds",
   "main": "./lib/johns-work-arounds",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "description": "Provides bundled coding fonts and works around issues in Atom",
   "repository": "https://github.com/JohnMurga/atom-workaronds",
   "license": "MIT",
