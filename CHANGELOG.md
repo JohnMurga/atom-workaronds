@@ -1,4 +1,10 @@
-### 0.20 - Font replacement and tweaks
+### 0.22 - Built in proxy, more Roboto and fixes
+* Added a proxy server to work around https://github.com/atom/atom/issues/7191  
+  Basically drop a `.apmrc` in your ATOM_HOME with `proxy = http://localhost:33133`
+* Added the thinner variants of the Roboto font
+* Fixed a bug in the font naming
+
+### 0.20-0.21 - Font replacement and tweaks
 * Hack replaces dejavu as it is fundamentally the same but better
 * Tweaked the readme
 
