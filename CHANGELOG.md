@@ -1,5 +1,6 @@
 ### 0.25-0.27 A couple of tweaks
-* Some ill fated experiments
+* Renamed roboto fonts due to conflict with some themes
+* Rectified some ill fated experiments
 ### 0.24 - A couple of tweaks
 * Made the code a bit more robust
 ### 0.23 - Broke it !!
