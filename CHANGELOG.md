@@ -1,3 +1,6 @@
+### 0.28 Removed proxy and tidied up
+* Atom 1.0.13+ does not need workarounds for APM stability any more (removed)
+* Correct minor issues with the docs
 ### 0.25-0.27 A couple of tweaks
 * Renamed roboto fonts due to conflict with some themes
 * Rectified some ill fated experiments

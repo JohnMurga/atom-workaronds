@@ -23,9 +23,9 @@ My bundled fonts are as follows :
 |inconsolata|Inconsolata-Regular|
 |liberation|LiberationMono-Regular|
 |pt|PT_Mono|
-|roboto|Roboto Mono|
-|roboto light|Roboto Mono Light|
-|roboto thin|Roboto Mono Thin|
+|roboto-normal|Roboto Mono|
+|roboto-light|Roboto Mono Light|
+|roboto-thin|Roboto Mono Thin|
 |srcpro|SourceCodePro-Regular|
 |ubuntu|UbuntuMono-Regular|
 
