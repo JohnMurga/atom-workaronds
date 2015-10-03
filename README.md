@@ -5,12 +5,9 @@ So I created this plugin to solve most of the issues I have in one place.
 
 Most things get fixed, so now it just does the following :
 
-+ Includes proxy server for APM that I can toggle on as off on port 33133.  
-  This is to work around https://github.com/atom/atom/issues/7191.  
-  To use press CTRL-SHIFT-P and type "proxy" (start/stop).
 + Bundle my favorite fonts for whatever environment I use Atom in.
-+ Fix issues with bundled font alignment.
-+ Backup my Atom config.
++ Fix intermittent issues with font alignment.
++ Backups my Atom config.
 
 My bundled fonts are as follows :
 
@@ -29,6 +26,6 @@ My bundled fonts are as follows :
 |srcpro|SourceCodePro-Regular|
 |ubuntu|UbuntuMono-Regular|
 
-Maybe someone else finds this useful :-)
+Maybe someone else finds this useful
 
-Thanks for reading
+Thanks for reading :smiley:

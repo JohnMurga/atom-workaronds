@@ -1,3 +1,5 @@
+### 0.29 Tiny tweak
+* Tweaked the delay to address rare problems
 ### 0.28 Removed proxy and tidied up
 * Atom 1.0.13+ does not need workarounds for APM stability any more (removed)
 * Correct minor issues with the docs
