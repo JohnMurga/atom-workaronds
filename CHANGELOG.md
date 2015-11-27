@@ -1,3 +1,5 @@
+### 0.30 Removed font width hack (let's see how it goes)
+* Removed width hack due to issues on Atom 1.3 Beta
 ### 0.29 Tiny tweak
 * Tweaked the delay to address rare problems
 ### 0.28 Removed proxy and tidied up
