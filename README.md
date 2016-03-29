@@ -13,18 +13,14 @@ My bundled fonts are as follows :
 
 | In settings | Will map to |
 | --- | --- |
-|camingo|CamingoCode|
-|courier prime|Courier Prime Source|
-|cutive|Cutive Mono|
-|hack|Hack|
+|camingo|Camingo Code|
+|consola|Consola Monop|
 |inconsolata|Inconsolata-Regular|
-|liberation|LiberationMono-Regular|
-|pt|PT_Mono|
-|roboto-normal|Roboto Mono|
+|ocp-light|OfficeCodePro-Light|
+|ocp-regular|OfficeCodePro-Regular|
+|pt|PT Mono|
 |roboto-light|Roboto Mono Light|
-|roboto-thin|Roboto Mono Thin|
-|srcpro|SourceCodePro-Regular|
-|ubuntu|UbuntuMono-Regular|
+|roboto-regular|Roboto Mono Regular|
 
 Maybe someone else finds this useful
 
