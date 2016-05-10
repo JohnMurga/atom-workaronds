@@ -1,3 +1,7 @@
+### 0.31-0.35 Improved font change logic and changed font selection
+* Use ASYNC APIs and more clever font logic that avoids lockups
+* Made the font selection a little more focused
+* Updated Readme and Changelog !!
 ### 0.30 Removed font width hack (let's see how it goes)
 * Removed width hack due to issues on Atom 1.3 Beta
 ### 0.29 Tiny tweak
